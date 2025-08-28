@@ -1,0 +1,15 @@
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L02_Sprogkonstruktioner\bin\Debug\net9.0\L02_Sprogkonstruktioner.exe
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L02_Sprogkonstruktioner\bin\Debug\net9.0\L02_Sprogkonstruktioner.deps.json
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L02_Sprogkonstruktioner\bin\Debug\net9.0\L02_Sprogkonstruktioner.runtimeconfig.json
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L02_Sprogkonstruktioner\bin\Debug\net9.0\L02_Sprogkonstruktioner.dll
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L02_Sprogkonstruktioner\bin\Debug\net9.0\L02_Sprogkonstruktioner.pdb
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L02_Sprogkonstruktioner\obj\Debug\net9.0\L02_Sprogkonstruktioner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L02_Sprogkonstruktioner\obj\Debug\net9.0\L02_Sprogkonstruktioner.AssemblyInfoInputs.cache
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L02_Sprogkonstruktioner\obj\Debug\net9.0\L02_Sprogkonstruktioner.AssemblyInfo.cs
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L02_Sprogkonstruktioner\obj\Debug\net9.0\L02_Sprogkonstruktioner.csproj.CoreCompileInputs.cache
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L02_Sprogkonstruktioner\obj\Debug\net9.0\L02_Sprogkonstruktioner.sourcelink.json
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L02_Sprogkonstruktioner\obj\Debug\net9.0\L02_Sprogkonstruktioner.dll
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L02_Sprogkonstruktioner\obj\Debug\net9.0\refint\L02_Sprogkonstruktioner.dll
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L02_Sprogkonstruktioner\obj\Debug\net9.0\L02_Sprogkonstruktioner.pdb
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L02_Sprogkonstruktioner\obj\Debug\net9.0\L02_Sprogkonstruktioner.genruntimeconfig.cache
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L02_Sprogkonstruktioner\obj\Debug\net9.0\ref\L02_Sprogkonstruktioner.dll

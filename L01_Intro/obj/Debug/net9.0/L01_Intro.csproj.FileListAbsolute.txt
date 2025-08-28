@@ -1,0 +1,15 @@
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L01_Intro\bin\Debug\net9.0\L01_Intro.exe
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L01_Intro\bin\Debug\net9.0\L01_Intro.deps.json
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L01_Intro\bin\Debug\net9.0\L01_Intro.runtimeconfig.json
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L01_Intro\bin\Debug\net9.0\L01_Intro.dll
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L01_Intro\bin\Debug\net9.0\L01_Intro.pdb
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L01_Intro\obj\Debug\net9.0\L01_Intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L01_Intro\obj\Debug\net9.0\L01_Intro.AssemblyInfoInputs.cache
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L01_Intro\obj\Debug\net9.0\L01_Intro.AssemblyInfo.cs
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L01_Intro\obj\Debug\net9.0\L01_Intro.csproj.CoreCompileInputs.cache
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L01_Intro\obj\Debug\net9.0\L01_Intro.sourcelink.json
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L01_Intro\obj\Debug\net9.0\L01_Intro.dll
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L01_Intro\obj\Debug\net9.0\refint\L01_Intro.dll
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L01_Intro\obj\Debug\net9.0\L01_Intro.pdb
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L01_Intro\obj\Debug\net9.0\L01_Intro.genruntimeconfig.cache
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L01_Intro\obj\Debug\net9.0\ref\L01_Intro.dll

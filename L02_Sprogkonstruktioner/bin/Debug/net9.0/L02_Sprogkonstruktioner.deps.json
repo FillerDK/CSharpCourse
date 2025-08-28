@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "L02_Sprogkonstruktioner/1.0.0": {
+        "runtime": {
+          "L02_Sprogkonstruktioner.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "L02_Sprogkonstruktioner/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
