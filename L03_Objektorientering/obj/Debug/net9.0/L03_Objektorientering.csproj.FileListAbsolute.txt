@@ -1,0 +1,15 @@
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L03_Objektorientering\bin\Debug\net9.0\L03_Objektorientering.exe
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L03_Objektorientering\bin\Debug\net9.0\L03_Objektorientering.deps.json
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L03_Objektorientering\bin\Debug\net9.0\L03_Objektorientering.runtimeconfig.json
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L03_Objektorientering\bin\Debug\net9.0\L03_Objektorientering.dll
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L03_Objektorientering\bin\Debug\net9.0\L03_Objektorientering.pdb
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L03_Objektorientering\obj\Debug\net9.0\L03_Objektorientering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L03_Objektorientering\obj\Debug\net9.0\L03_Objektorientering.AssemblyInfoInputs.cache
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L03_Objektorientering\obj\Debug\net9.0\L03_Objektorientering.AssemblyInfo.cs
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L03_Objektorientering\obj\Debug\net9.0\L03_Objektorientering.csproj.CoreCompileInputs.cache
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L03_Objektorientering\obj\Debug\net9.0\L03_Objektorientering.sourcelink.json
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L03_Objektorientering\obj\Debug\net9.0\L03_Objektorientering.dll
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L03_Objektorientering\obj\Debug\net9.0\refint\L03_Objektorientering.dll
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L03_Objektorientering\obj\Debug\net9.0\L03_Objektorientering.pdb
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L03_Objektorientering\obj\Debug\net9.0\L03_Objektorientering.genruntimeconfig.cache
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L03_Objektorientering\obj\Debug\net9.0\ref\L03_Objektorientering.dll
