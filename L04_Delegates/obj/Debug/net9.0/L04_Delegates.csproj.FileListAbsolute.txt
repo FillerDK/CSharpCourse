@@ -1,0 +1,15 @@
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L04_Delegates\bin\Debug\net9.0\L04_Delegates.exe
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L04_Delegates\bin\Debug\net9.0\L04_Delegates.deps.json
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L04_Delegates\bin\Debug\net9.0\L04_Delegates.runtimeconfig.json
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L04_Delegates\bin\Debug\net9.0\L04_Delegates.dll
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L04_Delegates\bin\Debug\net9.0\L04_Delegates.pdb
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L04_Delegates\obj\Debug\net9.0\L04_Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L04_Delegates\obj\Debug\net9.0\L04_Delegates.AssemblyInfoInputs.cache
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L04_Delegates\obj\Debug\net9.0\L04_Delegates.AssemblyInfo.cs
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L04_Delegates\obj\Debug\net9.0\L04_Delegates.csproj.CoreCompileInputs.cache
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L04_Delegates\obj\Debug\net9.0\L04_Delegates.sourcelink.json
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L04_Delegates\obj\Debug\net9.0\L04_Delegates.dll
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L04_Delegates\obj\Debug\net9.0\refint\L04_Delegates.dll
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L04_Delegates\obj\Debug\net9.0\L04_Delegates.pdb
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L04_Delegates\obj\Debug\net9.0\L04_Delegates.genruntimeconfig.cache
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L04_Delegates\obj\Debug\net9.0\ref\L04_Delegates.dll

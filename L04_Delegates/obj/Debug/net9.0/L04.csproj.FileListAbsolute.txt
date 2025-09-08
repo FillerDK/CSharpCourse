@@ -1,0 +1,15 @@
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L04\bin\Debug\net9.0\L04.exe
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L04\bin\Debug\net9.0\L04.deps.json
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L04\bin\Debug\net9.0\L04.runtimeconfig.json
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L04\bin\Debug\net9.0\L04.dll
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L04\bin\Debug\net9.0\L04.pdb
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L04\obj\Debug\net9.0\L04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L04\obj\Debug\net9.0\L04.AssemblyInfoInputs.cache
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L04\obj\Debug\net9.0\L04.AssemblyInfo.cs
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L04\obj\Debug\net9.0\L04.csproj.CoreCompileInputs.cache
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L04\obj\Debug\net9.0\L04.sourcelink.json
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L04\obj\Debug\net9.0\L04.dll
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L04\obj\Debug\net9.0\refint\L04.dll
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L04\obj\Debug\net9.0\L04.pdb
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L04\obj\Debug\net9.0\L04.genruntimeconfig.cache
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L04\obj\Debug\net9.0\ref\L04.dll
