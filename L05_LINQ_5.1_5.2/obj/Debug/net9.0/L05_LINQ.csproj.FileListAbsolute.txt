@@ -1,0 +1,15 @@
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L05_LINQ\bin\Debug\net9.0\L05_LINQ.exe
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L05_LINQ\bin\Debug\net9.0\L05_LINQ.deps.json
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L05_LINQ\bin\Debug\net9.0\L05_LINQ.runtimeconfig.json
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L05_LINQ\bin\Debug\net9.0\L05_LINQ.dll
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L05_LINQ\bin\Debug\net9.0\L05_LINQ.pdb
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L05_LINQ\obj\Debug\net9.0\L05_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L05_LINQ\obj\Debug\net9.0\L05_LINQ.AssemblyInfoInputs.cache
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L05_LINQ\obj\Debug\net9.0\L05_LINQ.AssemblyInfo.cs
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L05_LINQ\obj\Debug\net9.0\L05_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L05_LINQ\obj\Debug\net9.0\L05_LINQ.sourcelink.json
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L05_LINQ\obj\Debug\net9.0\L05_LINQ.dll
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L05_LINQ\obj\Debug\net9.0\refint\L05_LINQ.dll
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L05_LINQ\obj\Debug\net9.0\L05_LINQ.pdb
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L05_LINQ\obj\Debug\net9.0\L05_LINQ.genruntimeconfig.cache
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L05_LINQ\obj\Debug\net9.0\ref\L05_LINQ.dll

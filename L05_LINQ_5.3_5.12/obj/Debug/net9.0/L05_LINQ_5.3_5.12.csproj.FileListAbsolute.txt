@@ -1,0 +1,15 @@
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L05_LINQ_5.3_5.12\bin\Debug\net9.0\L05_LINQ_5.3_5.12.exe
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L05_LINQ_5.3_5.12\bin\Debug\net9.0\L05_LINQ_5.3_5.12.deps.json
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L05_LINQ_5.3_5.12\bin\Debug\net9.0\L05_LINQ_5.3_5.12.runtimeconfig.json
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L05_LINQ_5.3_5.12\bin\Debug\net9.0\L05_LINQ_5.3_5.12.dll
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L05_LINQ_5.3_5.12\bin\Debug\net9.0\L05_LINQ_5.3_5.12.pdb
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L05_LINQ_5.3_5.12\obj\Debug\net9.0\L05_LINQ_5.3_5.12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L05_LINQ_5.3_5.12\obj\Debug\net9.0\L05_LINQ_5.3_5.12.AssemblyInfoInputs.cache
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L05_LINQ_5.3_5.12\obj\Debug\net9.0\L05_LINQ_5.3_5.12.AssemblyInfo.cs
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L05_LINQ_5.3_5.12\obj\Debug\net9.0\L05_LINQ_5.3_5.12.csproj.CoreCompileInputs.cache
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L05_LINQ_5.3_5.12\obj\Debug\net9.0\L05_LINQ_5.3_5.12.sourcelink.json
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L05_LINQ_5.3_5.12\obj\Debug\net9.0\L05_LINQ_5.3_5.12.dll
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L05_LINQ_5.3_5.12\obj\Debug\net9.0\refint\L05_LINQ_5.3_5.12.dll
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L05_LINQ_5.3_5.12\obj\Debug\net9.0\L05_LINQ_5.3_5.12.pdb
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L05_LINQ_5.3_5.12\obj\Debug\net9.0\L05_LINQ_5.3_5.12.genruntimeconfig.cache
+C:\Users\phili\Desktop\Datamatiker\4. semester\CS_NET\CSharpCourse\L05_LINQ_5.3_5.12\obj\Debug\net9.0\ref\L05_LINQ_5.3_5.12.dll

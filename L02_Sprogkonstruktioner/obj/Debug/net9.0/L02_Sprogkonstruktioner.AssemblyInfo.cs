@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("L02_Sprogkonstruktioner")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6476e65867cfbe4506f75f0a00e1d1e084ad0f03")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+22a99f487d82dfda339711bc29161aa4fc95e435")]
 [assembly: System.Reflection.AssemblyProductAttribute("L02_Sprogkonstruktioner")]
 [assembly: System.Reflection.AssemblyTitleAttribute("L02_Sprogkonstruktioner")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
