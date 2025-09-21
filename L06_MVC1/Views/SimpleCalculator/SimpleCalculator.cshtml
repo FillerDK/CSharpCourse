@@ -1,0 +1,45 @@
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Time calculator</title>
+</head>
+<body>
+<div>
+    <div style="font-size: 25px;"><b>Simple Calculator</b></div>
+    @using (Html.BeginForm())
+    {
+        <p>
+            @Html.TextBox("Number1", (string)ViewBag.Number1)
+        </p>
+        <p>
+            @Html.TextBox("Number2", (string)ViewBag.Number2)
+        </p>
+        <p>
+            <input name="operator" type="submit" value="+"/>
+            <input name="operator" type="submit" value="-"/>
+            <input name="operator" type="submit" value="*"/>
+            <input name="operator" type="submit" value="/"/>
+        </p>
+    }
+    
+    @if (ViewBag.Result != 0.0)
+    {
+        <div>
+            result: @ViewBag.Result
+        </div>
+    }
+    else
+    {
+        <div>
+            Du må ikke dividere med 0!
+        </div>
+    }
+</div>
+</body>
+</html>

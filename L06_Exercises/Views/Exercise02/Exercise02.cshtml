@@ -1,0 +1,50 @@
+@using L06_Exercises.Models
+@model IEnumerable<L06_Exercises.Models.Person>
+
+@* ---------- Helper methods ---------- *@
+@{
+    void RenderPerson(Person person)
+    {
+        <p>
+            Name: @person.Firstname @person.Lastname<br/>
+            Address: @person.Address @person.Zip @person.City
+        </p>
+    }
+
+    string FullPhone(Person person)
+    {
+        return $"{person.Firstname} {person.Lastname} ({PhoneNumbers(person.PhoneNumbers)})<br/>";
+    }
+
+    string PhoneNumbers(List<string> phoneNumbers)
+    {
+        return string.Join(", ", phoneNumbers);
+    }
+
+    string YearsOld(Person person)
+    {
+        return $"{person.Firstname} {person.Lastname} is {person.Age} years old<br/>";
+    }
+}
+
+@* ------------ Actual code ----------- *@
+
+@foreach (var p in Model)
+{
+    RenderPerson(p);
+}
+
+<p>
+    Phone numbers:<br/>
+    @foreach (var p in Model)
+    {
+        @Html.Raw(FullPhone(p))
+    }
+</p>
+
+<p>
+    @foreach (var p in Model)
+    {
+        @Html.Raw(YearsOld(p))
+    }
+</p>

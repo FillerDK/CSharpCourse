@@ -1,0 +1,19 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+
+@* 9. Vis manufacturer på siden *@
+
+<h2>@ViewBag.Glass.Name - @ViewBag.Glass.Manufacturer</h2>
+<p>Price: @String.Format("{0:0.00}", ViewBag.Glass.Price)</p>
+<p><img src="\images\@ViewBag.Glass.ImageUrl" alt="@ViewBag.Glass.Name" /></p>
+
+@* 2. Bin and knife added to site *@
+
+<h2>@ViewBag.Bin.Name - @ViewBag.Bin.Manufacturer</h2>
+<p>Price: @String.Format("{0:0.00}", ViewBag.Bin.Price)</p>
+<p><img src="\images\@ViewBag.Bin.ImageUrl" alt="@ViewBag.Bin.Name" /></p>
+
+<h2>@ViewBag.Knife.Name - @ViewBag.Knife.Manufacturer</h2>
+<p>Price: @String.Format("{0:0.00}", ViewBag.Knife.Price)</p>
+<p><img src="\images\@ViewBag.Knife.ImageUrl" alt="@ViewBag.Knife.Name" /></p>

@@ -1,0 +1,46 @@
+@* ------------ Actual code ----------- *@
+<div style="display: flex; justify-content: space-between; padding: 10px;">
+    <!-- Book column -->
+    <div style="width: 30%">
+        @foreach (var b in Model.Books)
+        {
+            <p>
+                <b>Title:</b> @b.Title<br/>
+                <b>Author:</b> @b.Author<br/>
+                <b>Price:</b> @b.Price<br/>
+                <b>Publisher:</b> @b.Publisher<br/>
+                <b>ISBN:</b> @b.ISBN<br/>
+                <img src="@b.ImageUrl" alt="@b.Title" width="200"/><br/>
+            </p>
+        }
+    </div>
+    
+    <!-- MusicCDs -->
+    <div style="width: 65%">
+        @foreach (var cd in Model.MusicCDs)
+        {
+            <div style="display: flex; margin-bottom: 20px">
+                <!-- Album info -->
+                <div style="width: 50%; margin-right: 10px;">
+                    <b>Album:</b> @cd.Title<br/>
+                    <b>Artist:</b> @cd.Artist<br/>
+                    <b>Price:</b> @cd.Price<br/>
+                    <b>Released:</b> @cd.Released<br/>
+                    <img src="@cd.ImageUrl" alt="@cd.Title" width="200"/><br/>
+                </div>
+                
+                <!-- Tracks -->
+                <div style="width: 50%">
+                    <b>Tracks:</b>
+                    <ol>
+                        @foreach (var t in cd.Tracks)
+                        {
+                            <li>@t</li>
+                        }
+                    </ol>
+                </div>
+            </div>
+        }
+    
+    </div>
+</div>
