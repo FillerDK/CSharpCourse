@@ -1,0 +1,60 @@
+@model L07_HTML_helpers.Models.Exercise02.ParkingTicketMachine
+@{
+    ViewBag.Title = "Parking Ticket";
+    Layout = null;
+}
+
+
+<h2>Parking Ticket Machine</h2>
+
+@using (Html.BeginForm())
+{
+    <div style="width: 300px;">
+        <div class="dataElem">
+            @Html.LabelFor(m => m.TimeNow)
+            <span class="data">
+                @Html.DisplayFor(m => m.TimeNow)
+            </span>
+        </div>
+        <div class="dataElem">
+            @Html.LabelFor(m => m.PaidUntil)
+            <span class="data">
+                @Html.DisplayFor(m => m.PaidUntil)
+            </span>
+        </div>
+        <br/>
+        <div class="dataElem">
+            @Html.LabelFor(m => m.Info)
+            <span class="data">
+                @if (ViewBag.Payback == false)
+                {
+                    <input type="text" value="@Model.AmountInserted kr is paid" class="text-box single-line" readonly="readonly" />
+                }
+                else
+                {
+                    <input type="text" value="@ViewBag.PaybackAmount kr is paid back" class="text-box single-line" readonly="readonly" />
+                }
+            </span>
+        </div>
+        <br/>
+        <div class="dataElem">
+            @Html.LabelFor(m => m.AmountInserted)
+            <span class="data">
+                @Html.EditorFor(m => m.AmountInserted)
+            </span>
+        </div>
+    </div>
+    
+    <div class="dataElem"><h3>Coin Insert</h3>
+        <input type="submit" id="kr" name="1" value="1 kr" />
+        <input type="submit" id="kr" name="2" value="2 kr" />
+        <input type="submit" id="kr" name="5" value="5 kr" />
+        <input type="submit" id="kr" name="10" value="10 kr"/>
+        <input type="submit" id="kr" name="20" value="20 kr" />
+    </div>
+    <br/>
+    <div class="dataElem">
+        <input type="submit" name="confirm" value="Confirm" />
+        <input type="submit" name="cancel" value="Cancel" />
+    </div>
+}
