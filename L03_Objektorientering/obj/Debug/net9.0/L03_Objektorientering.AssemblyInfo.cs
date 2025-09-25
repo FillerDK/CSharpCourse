@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("L03_Objektorientering")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8499ad34a111ef52df38f5fcc6611be8a3562aea")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5fbc03af31e1cebb628415d28851564176f84074")]
 [assembly: System.Reflection.AssemblyProductAttribute("L03_Objektorientering")]
 [assembly: System.Reflection.AssemblyTitleAttribute("L03_Objektorientering")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

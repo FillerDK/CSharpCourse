@@ -1,0 +1,7 @@
+@model L08_PartialView_ViewComponent.Models.Person
+
+@* View Component *@
+@await Component.InvokeAsync("VisEnPerson", Model)
+@* Partial View
+@await Html.PartialAsync("_VisEnPerson", Model)
+*@

@@ -1,0 +1,10 @@
+@model List<Person>
+
+@foreach (var p in Model)
+{
+    @* View Component *@
+    @await Component.InvokeAsync("VisEnPerson", p)
+    @* Partial view
+    @await Html.PartialAsync("_VisEnPerson", p)
+    *@
+}

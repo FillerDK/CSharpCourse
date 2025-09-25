@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "L08_Layouts_PartialViews_ViewComponents/1.0.0": {
+        "runtime": {
+          "L08_Layouts_PartialViews_ViewComponents.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "L08_Layouts_PartialViews_ViewComponents/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
