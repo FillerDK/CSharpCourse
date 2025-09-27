@@ -28,6 +28,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L08_Layouts_Sections", "L08
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L08_PartialView_ViewComponent", "L08_PartialView_ViewComponent\L08_PartialView_ViewComponent.csproj", "{32E5F202-EA99-4ED3-81E7-D44052661406}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L09_Validation", "L09_Validation\L09_Validation.csproj", "{D3488A3F-466A-4740-A645-43FCC7DE7BAA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -90,5 +92,9 @@ Global
 		{32E5F202-EA99-4ED3-81E7-D44052661406}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{32E5F202-EA99-4ED3-81E7-D44052661406}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{32E5F202-EA99-4ED3-81E7-D44052661406}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3488A3F-466A-4740-A645-43FCC7DE7BAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3488A3F-466A-4740-A645-43FCC7DE7BAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3488A3F-466A-4740-A645-43FCC7DE7BAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3488A3F-466A-4740-A645-43FCC7DE7BAA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
