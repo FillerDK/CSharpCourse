@@ -1,0 +1,66 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:vm="using:L12AvaloniaEx2App.ViewModels"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        x:Class="L12AvaloniaEx2App.Views.MainWindow"
+        x:DataType="vm:MainWindowViewModel"
+        Icon="/Assets/avalonia-logo.ico"
+        Title="L12AvaloniaEx2App">
+
+    <Design.DataContext>
+        <!-- This only sets the DataContext for the previewer in an IDE,
+             to set the actual DataContext for runtime, set the DataContext property in code (look at App.axaml.cs) -->
+        <vm:MainWindowViewModel/>
+    </Design.DataContext>
+
+    <Grid x:Name="Grid" RowDefinitions="50, 50" ColumnDefinitions="200, 200, 200">
+        <TextBlock
+            x:Name="left"
+            Grid.Row="0"
+            Grid.Column="0"
+            Text="Batman"
+            VerticalAlignment="Center"
+            HorizontalAlignment="Center"
+        />
+        <Button
+            Grid.Row="0"
+            Grid.Column="1"
+            Content="Ombyt øverste"
+            Click="Button_OnClick"
+            VerticalAlignment="Center"
+            HorizontalAlignment="Center"
+        />
+        <TextBlock
+            x:Name="right"
+            Grid.Row="0"
+            Grid.Column="2"
+            Text="Robin"
+            VerticalAlignment="Center"
+            HorizontalAlignment="Center"
+        />
+        <TextBlock
+            Grid.Row="1"
+            Grid.Column="0"
+            Text="Hulk"
+            VerticalAlignment="Center"
+            HorizontalAlignment="Center"
+        />
+        <Button
+            Grid.Row="1"
+            Grid.Column="1"
+            Content="Ombyt nederste"
+            Click="Button_OnClick"
+            VerticalAlignment="Center"
+            HorizontalAlignment="Center"
+        />
+        <TextBlock
+            Grid.Row="1"
+            Grid.Column="2"
+            Text="Fantomet"
+            VerticalAlignment="Center"
+            HorizontalAlignment="Center"
+        />
+    </Grid>
+</Window>

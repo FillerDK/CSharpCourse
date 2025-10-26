@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="L12AvaloniaEx1App/App.axaml" value="L12AvaloniaEx1App/L12AvaloniaEx1App.csproj" />
+        <entry key="L12AvaloniaEx1App/Views/MainWindow.axaml" value="L12AvaloniaEx1App/L12AvaloniaEx1App.csproj" />
+        <entry key="L12AvaloniaEx2App/App.axaml" value="L12AvaloniaEx2App/L12AvaloniaEx2App.csproj" />
+        <entry key="L12AvaloniaEx2App/Views/MainWindow.axaml" value="L12AvaloniaEx2App/L12AvaloniaEx2App.csproj" />
+        <entry key="L12AvaloniaEx6App/Views/MainWindow.axaml" value="L12AvaloniaEx6App/L12AvaloniaEx6App.csproj" />
+      </map>
+    </option>
+  </component>
+</project>
