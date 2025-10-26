@@ -1,0 +1,37 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:vm="using:L12AvaloniaEx8App.ViewModels"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        x:Class="L12AvaloniaEx8App.Views.MainWindow"
+        x:DataType="vm:MainWindowViewModel"
+        Icon="/Assets/avalonia-logo.ico"
+        Title="L12AvaloniaEx8App">
+
+    <Design.DataContext>
+        <!-- This only sets the DataContext for the previewer in an IDE,
+             to set the actual DataContext for runtime, set the DataContext property in code (look at App.axaml.cs) -->
+        <vm:MainWindowViewModel/>
+    </Design.DataContext>
+
+    <DockPanel>
+        <Grid ColumnDefinitions="200,200">
+            <StackPanel Grid.Column="0">
+                <RadioButton Content="North" Click="RadioButton_OnClick"/>
+                <RadioButton Content="South" Click="RadioButton_OnClick"/>
+                <RadioButton Content="East" Click="RadioButton_OnClick"/>
+                <RadioButton Content="West" Click="RadioButton_OnClick"/>
+                <TextBlock Text="Status radiobuttons:"/>
+                <TextBlock x:Name="RadiobuttonStatus" Text=""/>
+                <TextBlock Text="Status checkboxes:"/>
+                <TextBlock x:Name="ChekboxesStatus" Text=""/>
+            </StackPanel>
+            <StackPanel Grid.Column="1">
+                <CheckBox x:Name="chkLemon" Content="Lemon" Click="CheckBox_OnClick"/>
+                <CheckBox x:Name="chkOrange" Content="Orange" Click="CheckBox_OnClick"/>
+                <CheckBox x:Name="chkBanana" Content="Banana" Click="CheckBox_OnClick"/>
+            </StackPanel>
+        </Grid>
+    </DockPanel>
+</Window>

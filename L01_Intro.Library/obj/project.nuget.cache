@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "aSxYf6+NO6Y=",
+  "dgSpecHash": "pNgDNjzCTV4=",
   "success": true,
   "projectFilePath": "C:\\Users\\phili\\Desktop\\Datamatiker\\4. semester\\CS_NET\\CSharpCourse\\L01_Intro.Library\\L01_Intro.Library.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\phili\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.9\\microsoft.netcore.app.ref.9.0.9.nupkg.sha512",
+    "C:\\Users\\phili\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.9\\microsoft.windowsdesktop.app.ref.9.0.9.nupkg.sha512",
+    "C:\\Users\\phili\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.9\\microsoft.aspnetcore.app.ref.9.0.9.nupkg.sha512"
+  ],
   "logs": []
 }
